@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "py-cel"
+name = "celpy"
 version = "0.1.0"
 description = ""
 authors = ["John Hillegass <hillegassdev@gmail.com>"]
